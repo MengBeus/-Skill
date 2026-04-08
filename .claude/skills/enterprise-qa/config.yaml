@@ -1,0 +1,8 @@
+database:
+  path: ../../../enterprise-qa-data/enterprise.db
+
+knowledge_base:
+  root_path: ../../../enterprise-qa-data/knowledge
+
+timezone: Asia/Shanghai
+reference_date: 2026-03-27

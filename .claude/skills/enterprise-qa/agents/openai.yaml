@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业智能问答"
+  short_description: "在数据库和知识库之间路由企业问题，并返回带来源标注的答案。"
+  default_prompt: "使用 $enterprise-qa 回答企业内部问题，并给出来源。"
